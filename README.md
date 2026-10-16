@@ -4,7 +4,7 @@
 
 ![GPyTorch](assets/gp_banner.png)
 
-A hands-on tutorial on fitting Gaussian processes to time series with [GPyTorch](https://gpytorch.ai), prepared for CSC6022. The main lesson is that **the kernel is the model**, so most of the work goes into designing the right kernel for the data.
+A hands-on tutorial on fitting Gaussian processes to time series with [GPyTorch](https://gpytorch.ai). The main lesson is that **the kernel is the model**, so most of the work goes into designing the right kernel for the data.
 
 ## What is inside
 
