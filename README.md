@@ -1,6 +1,6 @@
 # Gaussian Processes for Time Series with GPyTorch
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_uG0memqk_Idj51RvfZ-KtlwQMstgF1X)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fU2LQijfHe_TtbXzdPLYS1zvz9WiUAd6#scrollTo=ad443a48)
 
 ![GPyTorch](assets/gp_banner.png)
 
