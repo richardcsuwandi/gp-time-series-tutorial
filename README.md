@@ -1,4 +1,4 @@
-# Gaussian Processes for Time Series with PyTorch
+# Gaussian Processes for Time Series with GPyTorch
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_uG0memqk_Idj51RvfZ-KtlwQMstgF1X)
 
