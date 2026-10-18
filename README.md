@@ -12,7 +12,7 @@ A hands-on tutorial on fitting Gaussian processes to time series with [GPyTorch]
 2. The GPyTorch building blocks (model, kernels, training loop)
 3. A worked example on the Mauna Loa CO₂ dataset
 4. An exercise where you design a kernel for real wireless traffic data from Huawei
-5. Automated kernel design with LLMs ([CAKE](https://github.com/richardcsuwandi/cake) and [Kernaut](https://github.com/richardcsuwandi/kernaut)), including the kernel Kernaut discovered for the Huawei data and a 30-cell challenge against it
+5. Automated kernel design with LLMs ([CAKE](https://github.com/richardcsuwandi/cake) and [Kernaut](https://github.com/richardcsuwandi/kernaut)), including the kernel Kernaut discovered for the Huawei data
 
 ## How to run
 
